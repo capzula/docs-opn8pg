@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-zwfv97.ridlerlandscapes.co.nz/sitemap.xml
